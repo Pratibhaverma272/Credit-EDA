@@ -1,4 +1,4 @@
-# Credit-EDA
+# Credit Risk analysis-EDA
 Minimise risk and maximise profitability for a bank by identifying customers who are capable of repaying their loans by analysing historical trends and performing exploratory data analysis.
 This assignment aims to give us an idea of applying 
 EDA in a real business scenario. In this assignment, 
